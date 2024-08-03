@@ -10,7 +10,7 @@
 <font color="#BC8F8F"><b>  ⪼⪼NO HACKING AND CARDING⪻⪻ </b></font><br>
 <font color="#ffff00"><b> ⪼⪼  MAX LOGIN  2 DEVICE ⪻⪻ </b> </font><br>
 <font color='red'><b> ⪼⪼ MELANGGAR = BANNED! ⪻⪻ </b></font><br>
-<font color="#0a00ff">┏━━━━━━━━━━━━━━━━━━━━━┓</b></font><br><font color="#ffff00"><b> Admin : https://wa.link/p1t6ke</b></font><br> <font color="#0a00ff">┗━━━━━━━━━━━━━━━━━━━━━┛</br></font>
+<font color="#0a00ff">┏━━━━━━━━━━━━━━━━━━━━━┓</b></font><br><font color="#ffff00"><b> Admin : https://t.me/capcapan</b></font><br> <font color="#0a00ff">┗━━━━━━━━━━━━━━━━━━━━━┛</br></font>
 
 
 ## INSTALL SCRIPT 
