@@ -1,13 +1,4 @@
 #!/bin/bash
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » BjhonStore
-# Email      » BjhonStore@gmail.com
-# telegram   » https://t.me/BjhonStore
-# whatsapp   » wa.me/+6282116211399
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# BjhonStore
-
 #random
 apt install jq curl -y
 rm -rf /root/xray/scdomain
@@ -18,10 +9,10 @@ echo ""
 echo ""
 #sub=$(</dev/urandom tr -dc a-z0-9 | head -c3)
 read -rp "Input Domain Name. Example ( BjhonStore ): " -e sub
-DOMAIN=Bjhonstore.live
-SUB_DOMAIN=${sub}.Bjhonstore.live
-CF_ID=adywibowogunadi@gmail.com
-CF_KEY=de5bb07d130f3324064415077bf3d81061ed7
+DOMAIN=sumpel.my.id
+SUB_DOMAIN=${sub}.sumpel.my.id
+CF_ID=brahmanarival@gmail.com
+CF_KEY=f7f3648fb76163ff0edd59bb46e414c4962af
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
