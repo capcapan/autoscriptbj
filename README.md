@@ -1,7 +1,7 @@
 <p style="text-align:center">
-<font color='blue'>┏━━━━━━━━━━━━━━━━━┓</b> </font><br>
+<font color='blue'>┏━━━━━━━━━━━━━━━┓</b> </font><br>
 <font color="#ffff00"><b>  ⪼⪼۞ CAPCAPAN  ۞⪻⪻</b></font><br>
-<font color="#0a00ff"> ┗━━━━━━━━━━━━━━━━━┛</b></font><br>
+<font color="#0a00ff"> ┗━━━━━━━━━━━━━━━┛</b></font><br>
 <font color="#6495ED"><b>⪼⪼  SERVER PREMIUM ⪻⪻</b></font> <br>
 <font color="#00ffff"><b>THANK YOU FOR USING SERVICE</b></font><br>
 <font color="#ff0000"><b>  !!! TOLONG IKUTI RULES SERVER  !!!  </b></font><br>
